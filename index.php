@@ -93,6 +93,10 @@ h3{
       border-radius: 4px;
 }
 
+.footer:pre{
+    text-align: left;
+}
+
 span.date{
   padding-top:12px;
   font-size:8px;
@@ -134,8 +138,12 @@ while (list(, $ln) = each($array)){
 ?>
                 <div class="footer">
                 <p>
-                Page powered by RaspberryPI, GIT and VIM! Kof, <?echo `date +%Y`;?> <a href="https://github.com/K0F/www_upkeep">source</a>
-                </p> 
+                Page powered by RaspberryPI, GIT and VIM <br/><br/>
+                last change: <br/>
+                <?echo `cd www_upkeep && git log --pretty=format:"%h %s" | head -n 1 | awk '{print $4" "$5" "$6" "$7" "$8}'`;?>
+                <br/><br/>                
+                <a href="https://github.com/K0F/www_upkeep">system source</a>
+                </p>
                 </div>
 
 </div>
