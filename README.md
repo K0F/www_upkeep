@@ -1,6 +1,6 @@
 ~
 ##New message
-*new Edit 4*
+*new Edit pulled from git*
 
 ~
 
