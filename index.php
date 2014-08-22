@@ -1,5 +1,7 @@
 <?
-`./fetch.sh`;
+
+#main content
+$filename = 'www_upkeep/content.md';
 
 # Install PSR-0-compatible class autoloader
 spl_autoload_register(function($class){
@@ -47,7 +49,7 @@ body{
 <body>
 
 		<?
-		$src = file_get_contents('www_upkeep/README.md');	 
+		$src = file_get_contents($filename);	 
 		
 		//if ($fp) { 
  			$array = explode("~", $src); 
