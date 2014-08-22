@@ -1,7 +1,7 @@
 ~
-##Second post from n900
+##True alternative
 
-It is __working!__
+This can be considered as fully functional twitter alternative. Edit done enierly with __VIM__!
 
 ~
 ##First post
