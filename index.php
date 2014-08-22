@@ -29,15 +29,15 @@ body{
 
 .frame{
 	position: relative;
-	width: 400px;
+	width: 600px;
 	left: 50%;
 	top: 10%;
 
 	background: #FFFCEC;
 
-	border: 3px solid;
+	border: 2px solid;
 	border-color: #2F162B;	
-	margin-left: -220px;
+	margin-left: -320px;
 	margin-bottom: 10px;
 	
 	padding: 0px 20px 10px 20px;
