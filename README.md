@@ -1,17 +1,3 @@
-~
-##New message
-*new Edit pulled from git*
+#Web deploy experiment
 
-~
-##new test
-* lalalal
-
-
-~
-##www_upkeep
-testing from remote dest
-
-
-~
-##test2
-testing
+Little webserver updated from github directly.. *more to come*
