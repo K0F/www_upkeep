@@ -5,8 +5,8 @@ This can be considered as functional yet experimental twitter alternative. Edit 
 
 Non-standart charset tesing..
 
-* žšťřďň
-
+1. žščťřďň
+2. áéíýóůú
 
 ~
 ##First post
