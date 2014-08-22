@@ -1,7 +1,12 @@
 ~
-##True alternative
+##An alternative
 
-This can be considered as fully functional twitter alternative. Edit done enierly with __VIM__ and __GIT__!
+This can be considered as functional yet experimental twitter alternative. Edit done enierly with __VIM__ and __GIT__!
+
+Non-standart charset tesing..
+
+* žšťřďň
+
 
 ~
 ##First post
