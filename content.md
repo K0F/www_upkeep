@@ -1,4 +1,4 @@
 ~
 ##First post
 
-Well this is a frist post, and everything is just logged and deployed *automatically* ..
+Well this is a first post, and everything is just logged and deployed *automatically* ..
