@@ -22,7 +22,7 @@ use \Michelf\Markdown;
 
 body{
 	font-family: Verdana;
-	font-size: 12px;
+	font-size: 11px;
 	background-image: url('background.png');
 	background-size: width auto;
 }
