@@ -108,6 +108,7 @@ span.date{
                         while (list(, $ll) = each($lines)){
                         if(strpos($ll, '#') !== FALSE){
                           $d = exec('cd www_upkeep && git blame content.md | grep "'.$ll.'" | awk \'{print $3" "$4}\'');
+                          break;
                         }
                         }
 
