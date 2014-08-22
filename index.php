@@ -21,8 +21,8 @@ use \Michelf\Markdown;
 <style>
 
 body{
-	font-family: Verdana;
-	font-size: 11px;
+	font-family: Tahoma Verdana Arial;
+	font-size: 11.5px;
 	background-image: url('background.png');
 	background-size: width auto;
 }
