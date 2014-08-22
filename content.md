@@ -1,7 +1,7 @@
 ~
 ##True alternative
 
-This can be considered as fully functional twitter alternative. Edit done enierly with __VIM__!
+This can be considered as fully functional twitter alternative. Edit done enierly with __VIM__ and __GIT__!
 
 ~
 ##First post
