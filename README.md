@@ -1,6 +1,6 @@
 ~
 ##New message
-*new Message*
+*new Edit*
 
 ~
 
