@@ -22,7 +22,8 @@ use \Michelf\Markdown;
 
 body{
 	font-family: Tahoma, Verdana, Arial;
-	font-size: 12px;
+        font-size: 12px;
+        color: #2F172B;
 	background-image: url('https://raw.githubusercontent.com/K0F/www_upkeep/master/background.png');
 	background-size: width auto;
 }
@@ -42,8 +43,8 @@ body{
 	
 	padding: 0px 20px 10px 20px;
 
-	-moz-border-radius: 5px;
-	border-radius: 5px;
+	-moz-border-radius: 4px;
+	border-radius: 4px;
 }
 </style>
 <body>
