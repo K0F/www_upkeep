@@ -1,1 +1,3 @@
-<?`/usr/bin/git pull`;?>hi
+<?
+`/usr/bin/git pull`;
+?>hi
