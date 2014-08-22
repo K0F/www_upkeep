@@ -74,10 +74,18 @@ a:hover {
       text-align: right;
       height:#ffffff;
       
+      border: 1px solid #2F172B;
       padding: 10px 20px 10px 20px;
 
       -moz-border-radius: 4px;
       border-radius: 4px;
+}
+
+span.date{
+  padding-top:12px;
+  font-size:8px;
+  color: #999999;
+  float:right;
 }
 </style>
 <body>
@@ -95,17 +103,28 @@ a:hover {
 		
 		while (list(, $ln) = each($array)){
 		
-			if($ln!=''){	
-			$md = Markdown::defaultTransform($ln);
-			$my_html = Markdown::defaultTransform($ln);
+                  if($ln!=''){	
+                    $lines = explode("\n",$ln);
+                        while (list(, $ll) = each($lines)){
+                        if(strpos($ll, '#') !== FALSE){
+                          $d = exec('cd www_upkeep && git blame content.md | grep "'.$ll.'" | awk \'{print $3" "$4}\'');
+                        }
+                        }
 
-			echo '<div class="frame">'.$my_html.'</div>';
+
+			$md = Markdown::defaultTransform($ln);
+                        $my_html = Markdown::defaultTransform($ln);
+
+                          echo '<div class="frame">';
+                          echo '<span class="date">'.$d.'</span>';
+                          echo $my_html;
+                          echo '</div>';
 			}
 		}
                 ?>
                 <div class="footer">
                 <p>
-                Page powered by RaspberryPI, GIT and VIM! Kof, <?echo `date +%Y`;?>
+                Page powered by RaspberryPI, GIT and VIM! Kof, <?echo `date +%Y`;?> <a href="https://github.com/K0F/www_upkeep">source</a>
                 </p> 
                 </div>
 
