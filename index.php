@@ -140,7 +140,7 @@ while (list(, $ln) = each($array)){
                 <p>
                 Page powered by RaspberryPI, GIT and VIM <br/><br/>
                 last change: <br/>
-                <?echo `cd www_upkeep && git log --pretty=format:"%h %s" | head -n 1 | awk '{print $4" "$5" "$6" "$7" "$8}'`;?>
+                <?echo `cd www_upkeep && git log --pretty=format:"%ar" | head -n 1`;?>
                 <br/><br/>                
                 <a href="https://github.com/K0F/www_upkeep">system source</a>
                 </p>
