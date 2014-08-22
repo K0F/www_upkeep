@@ -92,37 +92,34 @@ span.date{
 
 <div class="content">
 
-		<?
-		$src = file_get_contents($filename);	 
-		
-		//if ($fp) { 
- 			$array = explode("~", $src); 
-		//} 
-	
-		use \Michelf\MarkdownExtra;
-		
-		while (list(, $ln) = each($array)){
-		
-                  if($ln!=''){	
-                    $lines = explode("\n",$ln);
-                        while (list(, $ll) = each($lines)){
-                        if(strpos($ll, '#') !== FALSE){
-                          $d = exec('cd www_upkeep && git blame content.md | grep "'.$ll.'" | awk \'{print $3" "$4}\'');
-                          break;
-                        }
-                        }
+<?
+$src = file_get_contents($filename);	 
+$array = explode("~", $src); 
+
+use \Michelf\MarkdownExtra;
+
+while (list(, $ln) = each($array)){
+
+  if($ln!=''){	
+    $lines = explode("\n",$ln);
+    while (list(, $ll) = each($lines)){
+      if(strpos($ll, '#') !== FALSE){
+        $d = exec('cd www_upkeep && git blame content.md | grep "'.$ll.'" | awk \'{print $3" "$4}\'');
+        break;
+      }
+    }
 
 
-			$md = Markdown::defaultTransform($ln);
-                        $my_html = Markdown::defaultTransform($ln);
+    $md = Markdown::defaultTransform($ln);
+    $my_html = Markdown::defaultTransform($ln);
 
-                          echo '<div class="frame">';
-                          echo '<span class="date">'.$d.'</span>';
-                          echo $my_html;
-                          echo '</div>';
-			}
-		}
-                ?>
+    echo '<div class="frame">';
+    echo '<span class="date">'.$d.'</span>';
+    echo $my_html;
+    echo '</div>';
+  }
+}
+?>
                 <div class="footer">
                 <p>
                 Page powered by RaspberryPI, GIT and VIM! Kof, <?echo `date +%Y`;?> <a href="https://github.com/K0F/www_upkeep">source</a>
