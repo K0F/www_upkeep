@@ -23,7 +23,7 @@ use \Michelf\Markdown;
 body{
 	font-family: Tahoma, Verdana, Arial;
 	font-size: 12px;
-	background-image: url('background.png');
+	background-image: url('https://raw.githubusercontent.com/K0F/www_upkeep/master/background.png');
 	background-size: width auto;
 }
 
