@@ -67,6 +67,18 @@ a:hover {
 	border-radius: 4px;
 }
 
+h1{
+    font-size: 16px;
+}
+
+h2{
+    font-size: 14px;
+}
+
+h3{
+    font-size: 12px;
+}
+
 .footer{
       background: #FFFCEC;
       font-size: 9px;
