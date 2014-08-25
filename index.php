@@ -51,7 +51,7 @@ a:hover {
 	top: 10%;
 
 	margin-left: -320px;
-	
+        margin-bottom:100px;	
 
 }
 
