@@ -24,7 +24,7 @@ body{
 	font-family: Tahoma, Verdana, Arial;
         font-size: 10px;
         color: #2F172B;
-	background-image: url('https://raw.githubusercontent.com/K0F/www_upkeep/master/background.png');
+	background-image: url('www_upkeep/background.png');
 	background-size: width auto;
 }
 
@@ -63,7 +63,7 @@ img{
 }
 
 .frame{
-	background: #FFFCEC;
+	background: #ffffff;
 
         border: 1px solid #2F172B;
         margin-bottom: 10px;
