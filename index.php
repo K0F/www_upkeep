@@ -87,7 +87,7 @@ h3{
 }
 
 .footer{
-      background: #FFFCEC;
+	background: #ffffff;
       font-size: 9px;
       padding: 2px;
       text-align: right;
