@@ -149,7 +149,6 @@ while (list(, $ln) = each($array)){
                 last change: <br/>
                 <?echo `cd www_upkeep && git log --pretty=format:"%ar" | head -n 1`;?>
                 <br/><br/>                
-                <a href="https://github.com/K0F/www_upkeep">system source</a>
                 </p>
                 </div>
 
