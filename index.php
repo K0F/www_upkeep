@@ -1,7 +1,7 @@
 <?
 
 #main content
-$filename = 'www_upkeep/content.md';
+$filename = 'test/content.md';
 
 # Install PSR-0-compatible class autoloader
 spl_autoload_register(function($class){
@@ -24,7 +24,7 @@ body{
 	font-family: Tahoma, Verdana, Arial;
         font-size: 10px;
         color: #2F172B;
-	background-image: url('www_upkeep/background.png');
+	background-image: url('test/background.png');
 	background-size: width auto;
 }
 
@@ -127,7 +127,7 @@ while (list(, $ln) = each($array)){
     $lines = explode("\n",$ln);
     while (list(, $ll) = each($lines)){
       if(strpos($ll, '#') !== FALSE){
-        $d = exec('cd www_upkeep && git blame content.md | grep "'.$ll.'" | awk \'{print $3" "$4}\'');
+        $d = exec('cd test && git blame content.md | grep "'.$ll.'" | awk \'{print $3" "$4}\'');
         break;
       }
     }
@@ -147,7 +147,7 @@ while (list(, $ln) = each($array)){
                 <p>
                 Page powered by RaspberryPI, GIT and VIM <br/><br/>
                 last change: <br/>
-                <?echo `cd /var/www/test && git log --pretty=format:"%ar" | head -n 1`;?>
+                <?echo `cd test && git log --pretty=format:"%ar" | head -n 1`;?>
                 <br/><br/>                
                 </p>
                 </div>
