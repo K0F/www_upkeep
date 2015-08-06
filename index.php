@@ -127,7 +127,7 @@ while (list(, $ln) = each($array)){
     $lines = explode("\n",$ln);
     while (list(, $ll) = each($lines)){
       if(strpos($ll, '#') !== FALSE){
-        $d = exec('cd /var/www/test/ && git blame content.md | grep "'.$ll.'" | awk \'{print $3" "$4}\'');
+        $d = exec('git blame content.md | grep "'.$ll.'" | awk \'{print $3" "$4}\'');
         break;
       }
     }
@@ -147,7 +147,7 @@ while (list(, $ln) = each($array)){
                 <p>
                 Page powered by RaspberryPI, GIT and VIM <br/><br/>
                 last change: <br/>
-                <?echo `cd /var/www/test/ && git log --pretty=format:"%ar" | head -n 1`;?>
+                <?echo `git log --pretty=format:"%ar" | head -n 1`;?>
                 <br/><br/>                
                 </p>
                 </div>
