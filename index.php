@@ -68,7 +68,7 @@ img{
         border: 1px solid #2F172B;
         margin-bottom: 20px;
 	
-	padding: 0px 20px 10px 20px;
+	padding: 0px 20px 20px 20px;
 
 	-moz-border-radius: 4px;
 	border-radius: 4px;
