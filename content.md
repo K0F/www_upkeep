@@ -16,7 +16,7 @@ True international language appeared in depths of technologies used nowadays. As
 - free culture as a necessity for all the education (free software as a model for all human creation)
 - problems of rewards and sustainability of free culture movement (volunteers and philanthropists)
 - If there is any unit in informational society it is not _bit_, but *person*.
-- and more to write..
+- more to write..
 
 
 
