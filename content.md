@@ -1,10 +1,8 @@
 ~
-#Welcome to kof.uno
+#Welcome to pesek.me
 
 ![img](https://i.imgur.com/i2kUhgC.png)
 
-DIY site on DYI server
+If there is any unit in informational society it is not _bit_, but *person*.
 
-
-~
-#Internet is not just port 80!
+My name is Kryštof Pešek, please welcome.
