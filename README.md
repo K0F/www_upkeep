@@ -1,3 +1,3 @@
-#Web deploy experiment
+#pesek.me website
 
-Little webserver updated from github directly.. *more to come*
+Collection of logged thoughts in form of web page.
