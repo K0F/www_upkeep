@@ -14,14 +14,6 @@ True international language appeared in depths of technologies used nowadays. As
 - metamorphosis based on context of program (killing machines, art installations, stock-exchange algorithms)
 - free culture as a necessity for all the education (free software as a model for all human creation)
 - problems of rewards and sustainability of free culture movement (volunteers and philanthropists)
+- If there is any unit in informational society it is not _bit_, but *person*.
 - and more to write..
 
-
-~
-#Welcome to pesek.me
-
-![img](https://i.imgur.com/i2kUhgC.png)
-
-If there is any unit in informational society it is not _bit_, but *person*.
-
-My name is Kryštof Pešek, please welcome.
