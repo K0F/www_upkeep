@@ -48,7 +48,7 @@ a:hover {
 	position: relative;
 	width: 600px;
 	left: 50%;
-	top: 10%;
+	top: 33%;
         text-align: justify;       
 	margin-left: -320px;
         margin-bottom:100px;	
@@ -66,7 +66,7 @@ img{
 	background: #ffffff;
 
         border: 1px solid #2F172B;
-        margin-bottom: 10px;
+        margin-bottom: 20px;
 	
 	padding: 0px 20px 10px 20px;
 
@@ -87,7 +87,7 @@ h3{
 }
 
 .footer{
-	background: #ffffff;
+      background: #ffffff;
       font-size: 9px;
       padding: 2px;
       text-align: right;
