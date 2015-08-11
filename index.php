@@ -147,6 +147,7 @@ while (list(, $ln) = each($array)){
                 <p>
                 Page powered by RaspberryPI, GIT and VIM <br/><br/>
                 last change: <br/>
+                <a href="https://github.com/K0F/www_upkeep">source</a>
                 <?echo `cd /var/www/ && git log --pretty=format:"%ar" | head -n 1`;?>
                 <br/><br/>                
                 </p>
