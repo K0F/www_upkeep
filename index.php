@@ -5,7 +5,7 @@ $filename = 'content.md';
 
 # Install PSR-0-compatible class autoloader
 spl_autoload_register(function($class){
-	require preg_replace('{\\\\|_(?!.*\\\\)}', DIRECTORY_SEPARATOR, ltrim($class, '\\')).'.php';
+  require preg_replace('{\\\\|_(?!.*\\\\)}', DIRECTORY_SEPARATOR, ltrim($class, '\\')).'.php';
 });
 
 # Get Markdown class
@@ -21,11 +21,11 @@ use \Michelf\Markdown;
 <style>
 
 body{
-	font-family: Tahoma, Verdana, Arial;
+        font-family: Tahoma, Verdana, Arial;
         font-size: 10px;
         color: #2F172B;
-	background-image: url('background.png');
-	background-size: width auto;
+        background-image: url('background.png');
+        background-size: width auto;
 }
 
 a:link {
@@ -45,12 +45,12 @@ a:hover {
 }
 
 .content{
-	position: relative;
-	width: 600px;
-	left: 50%;
-	top: 33%;
+        position: relative;
+        width: 600px;
+        left: 50%;
+        top: 33%;
         text-align: justify;       
-	margin-left: -320px;
+        margin-left: -320px;
         margin-bottom:100px;	
 
 }
@@ -63,15 +63,17 @@ img{
 }
 
 .frame{
-	background: #ffffff;
+        background: #ffffff;
 
         border: 1px solid #2F172B;
         margin-bottom: 20px;
-	
-	padding: 0px 20px 20px 20px;
 
-	-moz-border-radius: 4px;
-	border-radius: 4px;
+
+      border: 1px solid #2F172B;
+      padding: 10px 20px 20px 20px;
+
+      -moz-border-radius: 4px;
+      border-radius: 4px;	
 }
 
 h1{
@@ -92,7 +94,7 @@ h3{
       padding: 2px;
       text-align: right;
       height:#ffffff;
-      
+
       border: 1px solid #2F172B;
       padding: 10px 20px 10px 20px;
 
