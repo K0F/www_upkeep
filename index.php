@@ -49,7 +49,7 @@ a:hover {
 	width: 600px;
 	left: 50%;
 	top: 10%;
-
+        text-align: justify;       
 	margin-left: -320px;
         margin-bottom:100px;	
 
