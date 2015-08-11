@@ -148,7 +148,8 @@ while (list(, $ln) = each($array)){
                 <div class="footer">
                 <p>
                 Page powered by RaspberryPI, GIT and VIM <br/>
-                <a href="https://github.com/K0F/www_upkeep">source</a><br/><br/>
+                <a href="https://github.com/K0F/www_upkeep">source</a><br/>
+                <a href="mailto:krystof@pesek.me">contact</a><br/><br/>
                 last change: <br/>
                 <?echo `cd /var/www/ && git log --pretty=format:"%ar" | head -n 1`;?>
                 <br/><br/>                
