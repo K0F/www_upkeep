@@ -1,7 +1,11 @@
 ~
-#Internet is not just port 80 _(draft)_
+#An unified world of human thought _(draft)_
 
-A dominance of English language spreading world-wide is quite evidential nowadays. The interconnected network founded and spread recently (roughly in past 20 years) made this fact even more manifest.
+We are witnesses of very unique process, which happens for very first time of human history. The incidences of this act of spreading logical infrastructure are unknown, but its scale is enormous.
+
+Dominance of English language as a world-wide common speech is quite evident nowadays. The interconnected network founded and spread recently (roughly in past 20 years) made this fact even more manifest. Technology acts a new era colonisation tool and spreads into last depths of human culture. A soft discreet reality cannot be observed without proper devices but it is starting to be present in physical one. The division of two start to dissolve as a motives ideas and thoughts cannot be separated from what we usually gets form physical world natively.
+
+Thought can be technically spread with speed of light around a globe and it can be available in any reachable point. What is a necessity for being part of this techo-sphere is a proper reading/writing device which can operate on standards of communication. A number of such devices increases rapidly but the general diversity of use is heavily decreasing. 
 
 All this we know already, but there is something notable underlying this strange phenomena.
 
@@ -17,7 +21,5 @@ True international language appeared in depths of technologies used nowadays. As
 - problems of rewards and sustainability of free culture movement (volunteers and philanthropists)
 - If there is any unit in informational society it is not _bit_, but *person*.
 - more to write..
-
-
 
 
