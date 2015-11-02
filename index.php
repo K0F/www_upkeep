@@ -30,6 +30,8 @@ body{
         background-size: width auto;
 }
 
+
+
 a:link {
     color: #99aa00;
     text-decoration: none;
@@ -79,6 +81,7 @@ img{
 }
 
 h1{
+    font-family: Tahoma, Sans, Arial;
     font-size: 16px;
     margin-bottom: 32px;
 }
