@@ -113,13 +113,14 @@ h3{
 }
 
 span.date{
+  font-family: Verdana, Sans, Arial;
   padding-top:12px;
   font-size:8px;
   color: #999999;
   float:right;
 }
 
-p::first-letter {
+.frame::first-letter {
   font-weight: bold;
   color: red;
 }
