@@ -56,7 +56,10 @@ a:hover {
 }
 
 img{
-    overflow: hidden;
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  overflow: hidden;
 }
 
 .frame{
