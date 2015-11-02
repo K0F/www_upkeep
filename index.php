@@ -161,7 +161,7 @@ while (list(, $ln) = each($array)){
                 Page powered by RaspberryPI, GIT and VIM <br/>
                 <a href="https://github.com/K0F/www_upkeep">source</a><br/>
                 <a href="mailto:krystof@pesek.me">contact</a><br/><br/>
-                server up for:
+                server up for: <br/>
                 <?echo `uptime | awk -F',' '{print $1}' | awk -F' ' '{print $3" "$4}'`;?>
                 <br/><br/>
                 last change: <br/>
