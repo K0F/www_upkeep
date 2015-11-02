@@ -95,6 +95,7 @@ h3{
 }
 
 .footer{
+      font-family: Verdana, Sans, Arial;
       background: #ffffff;
       font-size: 9px;
       padding: 2px;
@@ -120,11 +121,9 @@ span.date{
   float:right;
 }
 
-.frame::first-letter {
-  font-weight: bold;
-  color: red;
-}
 </style>
+
+
 <body>
 
 <div class="content">
