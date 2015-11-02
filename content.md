@@ -7,6 +7,7 @@ The space in-between such dramatic events could be reflected later on as an era.
 
 (unfinished)
 
+∞
 
 ~
 #The change and total recording
