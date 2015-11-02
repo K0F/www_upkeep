@@ -22,7 +22,6 @@ _(sorry for bad English) text is in never-ending process.._
 
 --k
 
-
 <!--
 ##notes:
 - you can program just what you can understand (really?)
