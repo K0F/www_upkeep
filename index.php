@@ -162,7 +162,7 @@ while (list(, $ln) = each($array)){
                 <a href="https://github.com/K0F/www_upkeep">source</a><br/>
                 <a href="mailto:krystof@pesek.me">contact</a><br/><br/>
                 server up for:
-                <?echo `uptime | awk -F',' '{print $1}'`;?>
+                <?echo `uptime | awk -F',' '{print $1}' | awk -F' ' '{print $3" "$4}'`;?>
                 <br/><br/>
                 last change: <br/>
                 <?echo `cd /var/www/ && git log --pretty=format:"%ar" | head -n 1`;?>
