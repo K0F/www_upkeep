@@ -5,6 +5,7 @@ Catastrophes are often perceived as cataclysmic series of events leading to some
 
 The space in-between such dramatic events could be reflected later on as an era. In certain sense catastrophes end collapses of some underlying systems are needed for naming the whole episodes of human history. Collapse of some of the principles which were present are in fact very creative moments when the new system arises. The greatest collapses often follows a complete paradigmatic shift...
 
+(unfinished)
 
 
 ~
@@ -44,7 +45,7 @@ Free (or libre) software development is one of brightest examples of such creati
 
 ...
 
-_(sorry for bad English) text is in never-ending process.._
+_text is in never-ending process.._
 
 ∞
 
