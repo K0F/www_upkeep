@@ -79,7 +79,8 @@ img{
 }
 
 h1{
-    font-size: 16px;
+    font-size: 24px;
+    margin-bottom: 12px;
 }
 
 h2{
