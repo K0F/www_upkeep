@@ -57,7 +57,7 @@ a:hover {
 
 img{
     height: auto;
-    width: 560px;
+    /*width: 560px;*/
     overflow: hidden;
 
 }
