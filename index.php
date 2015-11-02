@@ -157,7 +157,7 @@ while (list(, $ln) = each($array)){
                 <?echo `cd /var/www/ && git log --pretty=format:"%ar" | head -n 1`;?>
                 <br/><br/>
                 <pre>                
-                <?echo `cd /var/www/ && git log -p -2 content.md`;?>
+                <?echo `cd /var/www/ && git log -1 content.md`;?>
                 </pre>                
 <br/><br/>                
                  
