@@ -1,4 +1,12 @@
 ~
+#An ode to collapse
+
+Catastrophes are often perceived as cataclysmic series of events leading to some radical changes. Some of them are predictable some happens suddenly without any previous signs. But every time we call something catastrophe, the phenomena is named by general terms or even unique names. This general sum of observations helps us to absorb its impact.
+
+
+
+
+~
 #The change and total recording
 
 All the matter and energy is in constant motion. It is unstoppable and even capturing or precisely documenting any processes are not leaving its framework. We might think that sound recording or photography freezes the time, but it is not very exact. The same time and energy is needed for our perception to read it. Light needs to be reflected towards our eyes and vibrations of air pressure delivers sound to our ears. Information itself is the change from non-information and therefore it needs any change in state.
