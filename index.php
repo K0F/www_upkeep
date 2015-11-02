@@ -24,7 +24,7 @@ use \Michelf\Markdown;
 
 body{
         font-family: Georgia, New Times Roman, Serif;
-        font-size: 10px;
+        font-size: 11px;
         color: #2F172B;
         background-image: url('background.png');
         background-size: width auto;
