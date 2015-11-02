@@ -1,5 +1,7 @@
 <?
 
+// sys by kof 2015 copyleft
+
 #main content
 $filename = 'content.md';
 
