@@ -1,10 +1,4 @@
 ~
-#Knock knock ..
-
-Hi my name is ```0x6b727973746f6620706573656b0a```.
-
-
-~
 #A dream of unified world of human thought _(draft)_
 
 text in progress..
