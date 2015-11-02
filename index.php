@@ -156,6 +156,9 @@ while (list(, $ln) = each($array)){
                 last change: <br/>
                 <?echo `cd /var/www/ && git log --pretty=format:"%ar" | head -n 1`;?>
                 <br/><br/>                
+                <?echo `cd /var/www/ && git log -p -2 content.md`;?>
+                <br/><br/>                
+                 
                 </p>
                 </div>
 
