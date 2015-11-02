@@ -82,7 +82,7 @@ img{
 
 h1{
     font-family: Verdana, Sans, Arial;
-    font-size: 24px;
+    font-size: 16px;
     margin-bottom: 24px;
 }
 
