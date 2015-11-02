@@ -21,7 +21,7 @@ Free (or libre) software development is one of brightest examples of such creati
 
 _(sorry for bad English) text is in never-ending process.._
 
---k
+-- ∞
 
 <!--
 ##notes:
