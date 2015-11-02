@@ -2,12 +2,12 @@
 #Knock knock ..
 Hi my name is 0x6b727973746f6620706573656b0a
 
-<!--
 
 ~
 #A dream of unified world of human thought _(draft)_
 
 text in progress..
+<!--
 
 We are witnesses of very unique process, which happens for very first time of human history. The incidences of this act of spreading logical infrastructure are unknown, but its scale is enormous.
 
