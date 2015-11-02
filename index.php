@@ -3,7 +3,7 @@
 // sys by kof 2015 copyleft
 
 #main content
-$filename = 'content.md';
+$filename = './content.md';
 
 # Install PSR-0-compatible class autoloader
 spl_autoload_register(function($class){
