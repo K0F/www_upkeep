@@ -1,9 +1,14 @@
 ~
+#Knock knock ..
+Hi my name is 0x6b727973746f6620706573656b0a
+
+<!--
+
+~
 #A dream of unified world of human thought _(draft)_
 
 text in progress..
 
-<!--
 We are witnesses of very unique process, which happens for very first time of human history. The incidences of this act of spreading logical infrastructure are unknown, but its scale is enormous.
 
 Dominance of English language as a world-wide common speech is quite evident nowadays. The interconnected network founded and spread recently (roughly in past 20 years) made this fact even more manifest. Technology acts a new era colonisation tool and spreads into last depths of human culture. A soft discreet reality cannot be observed without proper devices but it is starting to be present in physical one. The division of two start to dissolve as a motives ideas and thoughts cannot be separated from what we usually gets form physical world natively.
