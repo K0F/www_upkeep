@@ -155,7 +155,12 @@ while (list(, $ln) = each($array)){
                 <a href="mailto:krystof@pesek.me">contact</a><br/><br/>
                 last change: <br/>
                 <?echo `cd /var/www/ && git log --pretty=format:"%ar" | head -n 1`;?>
-                <br/><br/>                
+                <br/><br/>
+                <pre>                
+                <?echo `cd /var/www/ && git log -1 content.md`;?>
+                </pre>                
+<br/><br/>                
+                 
                 </p>
                 </div>
 
