@@ -119,7 +119,7 @@ span.date{
   float:right;
 }
 
-content::first-letter {
+p::first-letter {
   font-weight: bold;
   color: red;
 }
