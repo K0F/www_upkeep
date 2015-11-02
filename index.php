@@ -118,6 +118,11 @@ span.date{
   color: #999999;
   float:right;
 }
+
+content::first-letter {
+  font-weight: bold;
+  color: red;
+}
 </style>
 <body>
 
