@@ -81,9 +81,9 @@ img{
 }
 
 h1{
-    font-family: Tahoma, Sans, Arial;
-    font-size: 16px;
-    margin-bottom: 32px;
+    font-family: Verdana, Sans, Arial;
+    font-size: 24px;
+    margin-bottom: 24px;
 }
 
 h2{
