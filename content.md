@@ -9,6 +9,8 @@ This is a method called brute force and it is quite stupid. Interesting advantag
 
 What is still fascinating about all these systems and what they have in common is an actual ratio needed to enter and possible outputs such system. In some cases of certain algorithms even without having an actual knowledge about how the resulting pattern were build.
 
+![Image Alt](https://i.imgur.com/pjTU1vcl.jpg)
+
 All those thoughts lead me to a dream of library of patterns, revocable by simple pointer to a system for any combination of data of any kind. And what is wonderful it actually already sort of exists.. [Library of Babel](http://www.libraryofbabel.info/).
 
 
