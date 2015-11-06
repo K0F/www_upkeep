@@ -1,4 +1,14 @@
 ~
+#Level of understanding versus compressing mess
+
+It had been a long time since I first realized how successful can mathematics and algorithms be in order of *worlds reduction*. I remember how fascinating it was to see some physically accurate photo realistic renderings and hi-res calculations of fluid dynamics. Those very complex simulations were steadily improved to a point of near-perfect illusions. Behind the scene, wonderfully abstracted and derived algorithms were computing such illusion of understanding. Those little elegant formulas made an interesting connection between a source data (vector graphics and parametric maps) and millions of resulting pixels resulting into image. This was the first time I have realized that what I am witnessing is a huge compress ratio, made by understanding of image itself. Comparing a ratio of actual data inputs into system, such as geometry description, light sources positions, surface properties etc.; to number and level of detail of outputting bitmap is really enormous. This is all about a level of reduction (read understanding) which makes this ratio even greater.
+
+
+...
+
+
+
+~
 #An ode to collapse
 
 Catastrophes are often perceived as cataclysmic series of events leading to some radical changes. Some of them are predictable some happens suddenly without any previous signs. But every time we call something catastrophe, the phenomena is named by general terms or even unique names. This general sum of observations helps us to absorb its impact.
