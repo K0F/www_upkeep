@@ -5,11 +5,11 @@ It had been a long time since I first realized how successful can mathematics an
 
 Probably around the same time I discovered this mysterious algorithm called *Perlin noise*, named after its inventor Ken Perlin. It has a certain property of generating pseudo random patterns, which are repeatable once you know so called seed number and position to seek. From that point this noise generates continuous flow of values as it is moving thought abstract vector field. I started to dream of such system which could find similar patterns in this vector field to mimic certain values just by saving some of initial settings. This way if you seek, let's say a long time, you can probably find any thinkable pattern in this dictionary. This way a simple lookup in such system would be possible just by entering initial setup numbers.
 
-This is a method called brute force and it is quite stupid. Interesting advantage is that you don't need to have any level of understanding the set. The problem is. A seeking in such system is heavily time-intense and resulting derivation is very hardly accurate.
+This is a method called brute force and it is quite stupid. Interesting advantage is that you don't need to have any level of understanding the set. The problem is. A seeking in such system is heavily time-intense and resulting derivation is very hardly accurate. There are probably more elegant solutions such as Fourier transformations and reverse FFT algorithms finding patterns by sinusoidal multiplications and further fitting function finding. Or some systems close to neural network trained to replicate some patterns.
 
-There are probably more elegant systems such as Fourier transformations and reverse FFT algorithms finding patterns by sinusoidal multiplications and further fitting function finding.
+What is still fascinating about all these systems and what they have in common is an actual ratio needed to enter and possible outputs such system. In some cases of certain algorithms even without having an actual knowledge about how the resulting pattern were build.
 
-...
+All those thoughts lead me to a dream of library of patterns, revocable by simple pointer to a system for any combination of data of any kind. And what is wonderful it actually already sort of exists.. [Library of Babel](http://www.libraryofbabel.info/).
 
 
 
